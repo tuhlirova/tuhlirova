@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tuhlirova
+- 👀 I’m interested in Fivem Developing
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me [TM•SCRIPT](https://discord.gg/6Sh4u8xHVG)
